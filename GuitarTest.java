@@ -182,7 +182,7 @@ public class GuitarTest {
 	        }
 	    }
 
-	    // ---------------- Helper Methods ----------------
+	   
 
 	    private static Builder readBuilder() {
 	        try {
